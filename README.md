@@ -30,7 +30,7 @@ class main:
         
         self.talent = "Not the most talented dev ever but still good"
    
-  def Experience(self):
+   def experience(self):
       
         self.past = [
             "Discord Bots",
