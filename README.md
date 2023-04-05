@@ -1,16 +1,16 @@
 ![img1](https://github.com/B4DDEV/B4DDEV/blob/main/banner%20(1).png)
 ```python
-class main:
+class Main:
     
     
     #Presentation
     def __init__(self):
     
-        self.discord = "B4D#6191"
-        self.experience = "Four Year"
+        self.Discord = "B4D#6191"
+        self.Experience = "Four Year"
         
-        self.age = 16
-        self.nationality = "Canadian"
+        self.Age = 16
+        self.Nationality = "Canadian"
         
    def contact(self):
         
@@ -21,18 +21,18 @@ class main:
         
    def jobs(self):
    
-        self.types = [
+        self.Types = [
             "Automation", 
             "UI", 
             "Server", 
             "Fun"
         ]
         
-        self.talent = "Not the most talented dev ever but still good"
+        self.Talent = "Not the most talented dev ever but still good"
    
    def experience(self):
       
-        self.past = [
+        self.Past = [
             "Discord Bots",
             "Checkers",
             "Auth",
