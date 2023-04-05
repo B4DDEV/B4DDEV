@@ -1,4 +1,4 @@
-![img1](https://github.com/B4DDEV/ReadMe/blob/main/banner%20(1).png)
+![img1](https://github.com/B4DDEV/B4DDEV/blob/main/banner%20(1).png)
 ```python
 class main:
     
@@ -42,4 +42,4 @@ class main:
             
 
 ```
-![img2](https://github.com/B4DDEV/ReadMe/blob/main/banner%20(2).png)
+![img2](https://github.com/B4DDEV/B4DDEV/blob/main/banner%20(2).png)
